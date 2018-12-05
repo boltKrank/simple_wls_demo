@@ -8,12 +8,13 @@ mod 'puppetlabs-stdlib',                    '4.25.0'
 mod 'herculesteam-augeasproviders_core',    '2.1.4'
 mod 'herculesteam-augeasproviders_sysctl',  '2.2.0'
 mod 'saz-limits',                           '3.0.2'
-mod 'biemond-jdk7',                         '1.1.0'
+mod 'puppetlabs-java',                      '3.2.0'
 mod 'puppet-archive',                       '2.3.0'
 mod 'fiddyspence-sleep',                    '1.2.0'
 mod 'saz-timezone',                         '4.1.1'
 mod 'stm-debconf',                          '2.1.0'
 mod 'crayfishx-firewalld',                  '3.4.0'
+mod 'puppetlabs-firewall',                  '1.14.0'
 
 #
 # Modules that are part of the control repo. R10K doesn't need to touch these
